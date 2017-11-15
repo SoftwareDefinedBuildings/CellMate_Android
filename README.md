@@ -1,18 +1,18 @@
-# CellMate : Visual Appliance Identification and Control in Smart Buildings
-[![Build Status](https://travis-ci.com/kaifeichen/CellMate_Android.svg?token=XjizLR77Z2rgJhyHZZ73&branch=master)](https://travis-ci.com/kaifeichen/CellMate_Android)
+# SnapLink : Visual Appliance Identification and Control in Smart Buildings
+[![Build Status](https://travis-ci.com/kaifeichen/SnapLink_Android.svg?token=XjizLR77Z2rgJhyHZZ73&branch=master)](https://travis-ci.com/kaifeichen/SnapLink_Android)
 
-## What is CellMate?
-Please refer to the README.md in https://github.com/SoftwareDefinedBuildings/CellMate
+## What is SnapLink?
+Please refer to the README.md in https://github.com/SoftwareDefinedBuildings/SnapLink
 
-## How to Install CellMate Android Client?
+## How to Install SnapLink Android Client?
 
 1. Enable installing applications from unknown sources from the Android phone settings. More details can be found [here](https://developer.android.com/distribute/tools/open-distribution.html).
 
-2. Download the latest apk file from [the CellMate Android releases](https://github.com/SoftwareDefinedBuildings/CellMate_Android/releases).
+2. Download the latest apk file from [the SnapLink Android releases](https://github.com/SoftwareDefinedBuildings/SnapLink_Android/releases).
 
 2. Open the apk file to install.
 
-## How to Work on CellMate Android Client?
+## How to Work on SnapLink Android Client?
 
 1. Download [Android Studio](https://developer.android.com/studio/index.html) and install [Android NDK](https://developer.android.com/ndk/index.html).
 
@@ -20,7 +20,7 @@ Please refer to the README.md in https://github.com/SoftwareDefinedBuildings/Cel
 
   ```
   cd ~/workspace
-  git clone https://github.com/SoftwareDefinedBuildings/CellMate_Android
+  git clone https://github.com/SoftwareDefinedBuildings/SnapLink_Android
   ```
 
 3. Import this project in Android Studio.
@@ -83,4 +83,4 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Questions?
 
-Please Email Kaifei Chen <kaifei@berkeley.edu>
+Please Email Kaifei Chen <kaifei@berkeley.edu> or Tong Li <sasrwas@berkeley.edu>
