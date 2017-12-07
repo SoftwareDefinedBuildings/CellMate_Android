@@ -40,13 +40,15 @@ At the moment of writing, all communications to our server are over GRPC and not
 You must cite the following paper if you use this code in any ways:
 
 ```
-@inproceedings{chen2015intuitive,
-  title={Intuitive Appliance Identification using Image Matching in Smart Buildings},
-  author={Chen, Kaifei and Kolb, John and F{\"u}rst, Jonathan and Hong, Dezhi and Katz, Randy H},
-  booktitle={Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built Environments},
-  pages={103--104},
-  year={2015},
-  organization={ACM}
+@article{chen2017snaplink,
+  title={{SnapLink: Fast and Accurate Vision-Based Appliance Control in Large Commercial Buildings}},
+  author={Chen, Kaifei and F{\"u}rst, Jonathan and Kolb, John and Kim, Hyung-Sin and Jin, Xin and Culler, David E and Katz, Randy H},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={1},
+  number={4},
+  pages={129:1--129:27},
+  year={2017},
+  publisher={ACM}
 }
 ```
 
